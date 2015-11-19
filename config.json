@@ -1,0 +1,12 @@
+{
+  "stats_account_env_var": "xxxx.xxx.xxxxx",
+  "stats_format": "%host%-%alert-name%",
+  "uchiwa": {
+    "host": "http://uchiwa.com/",
+    "port": 8080
+  },
+  "alerts": [
+    "check_filterd_stale_items",
+    "check_persisted_events_dir"
+  ]
+}
