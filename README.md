@@ -7,5 +7,5 @@ Watchmen is a service that mines Uchiwa alerts and dumps them to a stat-based se
 
 * An example of questions to ask
    - Is a particular alert noisy?
-   - Has a recent change impacted an alert?
+   - Has a recent change impacted an alert in a positive or negative way?
    - What is the trend of alert 'xyz'?
