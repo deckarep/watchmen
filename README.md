@@ -1,7 +1,7 @@
 Watchmen
 --------
 
-# Quis custodiet ipsos custodes?
+### Quis custodiet ipsos custodes?
 
 Watchmen is a service that mines Uchiwa alerts and dumps them to a stat-based service so you can analyze historical trends in your alerting.
 
